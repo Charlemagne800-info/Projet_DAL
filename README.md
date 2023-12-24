@@ -4,15 +4,18 @@
 
 
 ## Description :
-Projet_DAL qui à pour but d'initier à la création d'un DAL en mettant en place une API CRUD et une base de données, le but étant de faire communiquer les 2 en utilisant le DAL...
+Projet_DAL qui à pour but d'initier à la création d'un DAL en mettant en place une API CRUD et une BDD
+
+L'objectif étant de faire communiquer les 2 en utilisant le DAL
 
 ## Fonctionnalités :
 Créer de fausses identités/utilisateurs en passant des arguments dans l'url du fichier endpoint
 
 
 ## Installation et Fonctionnement:
-Télécharge l'archive, extrayez le dossier dans le dossier /www/ de wamp64
-En amont du dossier /www/ dans le dossier /wamp64/, créer un dossier Crédentials avec un fichier db.json
+Télécharge l'archive, extrayez le dossier dans le **dossier /www/ de wamp64**
+
+En amont du dossier **/www/ dans le dossier /wamp64/, créer un dossier Crédentials contenant un fichier db.json**
 
 Inscrivez les informations nécessaire à la connection à la BDD comme ceci : 
 ```
@@ -28,11 +31,11 @@ Le projet devrait ressembler à cela :
 ![image](https://github.com/Charlemagne800-info/Projet_DAL/assets/113009479/99fd22aa-68e1-4834-a36a-af5d53100b24)
 
 
-Créez une base de données vierge se nommant <Nom_BDD> grâce à PhpMyAdmin ou autre
+**Créez une base de données vierge** se nommant <Nom_BDD> grâce à PhpMyAdmin ou autre
 
-Aller à http://localhost/Projet_DAL/create_table.php pour créer automatiquement la table nécessaire
+***Aller à http://localhost/Projet_DAL/create_table.php pour créer automatiquement la table nécessaire***
 
-Une fois la table créé, aller à l'addresse http://localhost/Projet_DAL/
+Une fois la table créée, aller à l'addresse http://localhost/Projet_DAL/
 
 Des exemples de ce qui est attendu sera affiché pour chaque action
 
