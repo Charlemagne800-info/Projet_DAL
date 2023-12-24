@@ -1,5 +1,4 @@
 # Projet_DAL
-Projet_DAL qui à pour but d'initier à la création d'un DAL en mettant en place une API CRUD et une base de données
 [![made-with-php](https://img.shields.io/badge/Made%20with-PHP-1f425f.svg)](https://www.php.net/)
 [![made-with-Visual-Studio-Code](https://img.shields.io/badge/Made%20with-Visual%20Studio%20Code-1f425f.svg)](https://code.visualstudio.com/)
 
